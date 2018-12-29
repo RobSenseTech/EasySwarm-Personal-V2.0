@@ -41,6 +41,8 @@ namespace EasySwarm2._0
             ++selectedId;
             if (selectedId <= makerNum)
                 ((CustomMarker)makerOverlay.Markers.ElementAt(selectedId - 1)).brushGround = new SolidBrush(Color.DarkGreen);
+            else
+                selectedId = -1;
 
             Refresh();
         }

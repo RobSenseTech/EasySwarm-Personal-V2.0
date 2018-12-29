@@ -393,7 +393,7 @@ namespace EasySwarm2._0
                 mac[0] = Convert.ToByte((Get_Mac >> 8) & 0x00ff);
                 mac[1] = Convert.ToByte(Get_Mac & 0x00ff);
                 float ba = 360 / (float)(40030173 * Math.Cos(baseLat * Math.PI / 180));
-                manager.gotolocation(mac, baseLng, baseLat + (float)excelReader.GetCellDouble(rowNum, columCount + 2) * 0.000009f, (float)excelReader.GetCellDouble(rowNum, columCount + 3) + baseAlt);
+                manager.gotolocation(mac, baseLng + (float)excelReader.GetCellDouble(rowNum, columCount + 1) * ba, baseLat + (float)excelReader.GetCellDouble(rowNum, columCount + 2) * 0.000009f, (float)excelReader.GetCellDouble(rowNum, columCount + 3) + baseAlt);
 
                 columCount += 4;
                 Thread.Sleep(50);

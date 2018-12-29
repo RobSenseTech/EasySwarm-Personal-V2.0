@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySwarm2.0", "EsaySwarm2.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAVLink", "Mavlink\MAVLink.csproj", "{20296734-5F3C-4593-A0D5-DD20B440B13A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lora", "Lora\Lora.csproj", "{4C908053-2F4D-4C82-9BFC-50DF8B312212}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{20296734-5F3C-4593-A0D5-DD20B440B13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20296734-5F3C-4593-A0D5-DD20B440B13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20296734-5F3C-4593-A0D5-DD20B440B13A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C908053-2F4D-4C82-9BFC-50DF8B312212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C908053-2F4D-4C82-9BFC-50DF8B312212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C908053-2F4D-4C82-9BFC-50DF8B312212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C908053-2F4D-4C82-9BFC-50DF8B312212}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
