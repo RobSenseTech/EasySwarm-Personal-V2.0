@@ -1,6 +1,6 @@
-C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\bin\Debug\EasySwarm2.0.exe.config
-C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\bin\Debug\EasySwarm2.0.exe
-C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\bin\Debug\EasySwarm2.0.pdb
+C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\bin\Debug\EasySwarm2.1.exe.config
+C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\bin\Debug\EasySwarm2.1.exe
+C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\bin\Debug\EasySwarm2.1.pdb
 C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\bin\Debug\MAVLink.dll
 C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\bin\Debug\MAVLink.pdb
 C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\obj\Debug\EasySwarm2.0.csprojResolveAssemblyReference.cache
@@ -11,5 +11,5 @@ C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\obj\Debug\EasySwarm2._0.Properties.Reso
 C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\obj\Debug\EasySwarm2._0.SingleVehiclesTool.resources
 C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\obj\Debug\EasySwarm2._0.UserMapControl.resources
 C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\obj\Debug\EasySwarm2.0.csproj.GenerateResource.Cache
-C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\obj\Debug\EasySwarm2.0.exe
-C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\obj\Debug\EasySwarm2.0.pdb
+C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\obj\Debug\EasySwarm2.1.exe
+C:\WorkProject\EsaySwarm2.0\EsaySwarm2.0\obj\Debug\EasySwarm2.1.pdb

@@ -1501,7 +1501,9 @@ namespace EasySwarm2._0
 
             Invoke((EventHandler)(delegate
             {
-                receiveCount++; 
+                receiveCount++;
+                if (receiveCount > sendCount)
+                    receiveCount = sendCount;
                 skinLabel_gwQueries.Text = sendCount.ToString() + "/" + receiveCount.ToString();
                 skinLabel_NodeQueries.Text = sendCount.ToString() + "/" + receiveCount.ToString();
             }));

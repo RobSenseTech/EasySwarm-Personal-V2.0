@@ -71,4 +71,3 @@ C:\WorkProject\EsaySwarm2.0\Mavlink\bin\Debug\MAVLink.dll
 C:\WorkProject\EsaySwarm2.0\Mavlink\bin\Debug\MAVLink.pdb
 C:\WorkProject\EsaySwarm2.0\Mavlink\obj\Debug\MAVLink.dll
 C:\WorkProject\EsaySwarm2.0\Mavlink\obj\Debug\MAVLink.pdb
-C:\WorkProject\EsaySwarm2.0\Mavlink\obj\Debug\MAVLink.csprojResolveAssemblyReference.cache
